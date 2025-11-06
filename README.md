@@ -38,9 +38,11 @@ This program is ideal for testing memory systems because it:
 - Has multiple interconnected files
 - Performs various CRUD operations
 - Stores persistent data
+- Tracks timestamps for all operations
 
 Perfect for validating that memory systems can track:
 - Function calls across modules
 - Data flow between components
 - Validation rules and their application
 - State changes over time
+- User interaction patterns

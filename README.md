@@ -5,9 +5,15 @@ A simple multi-file task management program designed for testing memory and vali
 ## Features
 
 - Add, list, complete, and delete tasks
+- Edit existing tasks (title, description, priority)
+- Search tasks by title or description
+- Filter tasks by priority and completion status
+- View task statistics and completion rates
+- Timestamp tracking (created_at, completed_at)
 - Data validation across multiple components
 - Persistent storage using JSON
 - Clean separation of concerns across multiple files
+- Enhanced error handling with try-catch blocks
 
 ## Files
 

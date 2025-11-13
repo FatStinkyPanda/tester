@@ -1,9 +1,3 @@
-# OpenMemory Global System Link
-# This project uses the centralized OpenMemory + AI Agents system
-# Global directory: /c/Users/dbiss/.openmemory-global
-# Project name: tester
-# Initialized: 2025-11-05T18:48:04-07:00
-
-GLOBAL_DIR=/c/Users/dbiss/.openmemory-global
+GLOBAL_DIR=/home/runner/.openmemory-global
 PROJECT_NAME=tester
 OPENMEMORY_URL=http://localhost:8080
